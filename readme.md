@@ -4,12 +4,12 @@ A real-time AI-powered assistant that can answer questions using live internet d
 Built using LLM agents with tool calling, web search integration, and conversational memory.
 
 Features:
-Real-time web serach integration.
-LLM-based intelligent agent.
-Conversational memory(chat history).
-Tool calling(dynamic decision making).
-ChatGPT- like UI using Streamlit.
-Fast and interactive responses.
+1.Real-time web serach integration.
+2.LLM-based intelligent agent.
+3.Conversational memory(chat history).
+4.Tool calling(dynamic decision making).
+5.ChatGPT- like UI using Streamlit.
+6.Fast and interactive responses.
 
 
 🧠 How It Works?
