@@ -29,6 +29,7 @@ Tool Calling - Function calling
 ## 🌐 Live Demo
 👉 [Click here to use the app](https://samruddhipowar5-realtime-ai-assistant-app-dlrelo.streamlit.app/))
 
-## 📸 Demo
-### Chat Interface
-![App Screenshot](screenshot.png)
+
+<img width="1316" height="721" alt="screenshot" src="https://github.com/user-attachments/assets/8d0a0bf8-7dad-424d-b19d-b13e300987f3" />
+
+
