@@ -26,3 +26,5 @@ Streamlit for UI
 Requests (Web Search API)
 Tool Calling - Function calling
 
+## 🌐 Live Demo
+👉 [Click here to use the app](https://samruddhipowar5-realtime-ai-assistant-app-dlrelo.streamlit.app/))
